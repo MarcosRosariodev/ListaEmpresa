@@ -1,4 +1,4 @@
-# puc-mvp1-frontend
+# mvp1-frontend
 
 Este é um projeto que faz parte do MVP1 da Pós em Engenharia de Software na PUC-Rio. Para o desenvolvimento do Front-end foi utilizado a biblioteca react com vite e typescript.
 
