@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    position: relative;
+    min-height: calc(100vh - 140px);
+}
+
+.title {
+    font-size: calc(2vw + 10px);
+}
